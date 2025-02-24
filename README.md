@@ -6,3 +6,7 @@ This is a text classification for AG News, the model used in the classification 
 ![alt text](<Execution Result.png>)
 # Dataset Link
 Currently available download link: https://www.kaggle.com/datasets/amananandrai/ag-news-classification-dataset 
+# References
+BERT HugggingFace:
+https://huggingface.co/google-bert/bert-base-uncased
+
